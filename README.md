@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Deepak%20Nemade&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=AWS%20Cloud%20Architect%20|%20DevOps%20Engineer%20|%20Network%20Specialist&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Deepak%20Nemade&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=%20AWS%20Cloud%20Architect%20|%20DevOps%20Engineer%20|%20Network%20Specialist&descAlignY=51&descAlign=62)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AWS+Cloud+Architect;DevOps+Engineer;Infrastructure+Automation;CI%2FCD+Pipeline+Expert;Kubernetes+Specialist;Terraform+Expert" alt="Typing SVG" />
