@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AWS+Cloud+Architect;DevOps+Engineer;Infrastructure+Automation;CI%2FCD+Pipeline+Expert;Kubernetes+Specialist;Terraform+Expert" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=deepaknemad&label=Profile%20views&color=0e75b6&style=flat" alt="deepaknemad" />
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 ## 🚀 Professional Summary
 
 ```yaml
